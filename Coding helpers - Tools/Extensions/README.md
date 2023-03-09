@@ -23,7 +23,7 @@ Blackbox eklentisi temel olarak websitelerinde görüdüğünüz resim, video gi
 
 Responsive Viewer eklentisi yaptığınız responsive(duyarlı) tasarımların aynı anda farklı boyutlardaki versiyonlarını karşılaştırarak önizlemenizi sağlar.
 
-> Alternatif: [Responsive Web Design Tester](https://chrome.google.com/webstore/detail/responsive-web-design-tes/enhcpefphhaiikpobimgcakinhabgiib)
+> Alternatif: YOK
 
 <br>
 
