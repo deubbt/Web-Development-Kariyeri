@@ -41,4 +41,4 @@ Türkiye için konuşursak iş ilanı adedi olarak en önde olan sektör web sek
 Maaş aralıklarına gelecek olursak şunu söyleyebilirim. Sizin teknik donanımınıza, iletişim becerilerinize ve mülakat başarınıza bağlı olarak alacağınız ücret çok değişkendir.
 Genel olarak 4 yıllık bir bölümden mezun olan yazılımcıların minimum maaşı 1000 doların o dönemki Türk lirası karşılığı oluyor. Bu miktar tecrübeye göre artarak 2500 dolar gibi seviyelere çıkabiliyor. Enflasyondan dolayı maaşları Türk lirasına göre vermedim. Kısacası web sektörü içerisindeki genel maaş skalasına 1000-3000 dolar arasında diyebiliriz.
 
-Benim web sektörüne dair anlatacaklarım bu kadardı. Repo içerisindeki kaynak kitaplara ve diğer yardımcı araçlara göz atmayı unutmayın. Hepsi benim özenle seçtiğim ve kullandığım kaynaklar. Umarım bu repo kariyer yolculuğunza biraz da olsa katkı sağlar.
+Benim web sektörüne dair anlatacaklarım bu kadardı. Repo içerisindeki kaynak kitaplara ve diğer yardımcı araçlara göz atmayı unutmayın. Hepsi benim özenle seçtiğim ve kullandığım kaynaklar. Umarım bu repo kariyer yolculuğunuza biraz da olsa katkı sağlar.
